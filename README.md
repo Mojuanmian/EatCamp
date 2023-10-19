@@ -17,6 +17,6 @@ Add New
 
 ![Add new](https://github.com/Mojuanmian/EatCamp/assets/122363652/f3185292-118f-42f7-92ae-cff1578b97f2)
 
-Reviwe
+Review
 
 ![review ground](https://github.com/Mojuanmian/EatCamp/assets/122363652/273bda39-0428-4fed-8362-e1dfc0ea2072)
